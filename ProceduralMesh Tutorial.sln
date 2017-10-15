@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2F598776-9D6A-C09E-D607-E05CE6731956}") = "ProceduralMesh Tutorial", "Assembly-CSharp.csproj", "{EC2F29EA-AFB3-3592-46E0-0AA190FBADA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2F29EA-AFB3-3592-46E0-0AA190FBADA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2F29EA-AFB3-3592-46E0-0AA190FBADA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2F29EA-AFB3-3592-46E0-0AA190FBADA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2F29EA-AFB3-3592-46E0-0AA190FBADA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
